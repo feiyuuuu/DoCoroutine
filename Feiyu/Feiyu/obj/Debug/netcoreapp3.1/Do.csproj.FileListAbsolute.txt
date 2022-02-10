@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\bin\Debug\netcoreapp3.1\Do.deps.json
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\bin\Debug\netcoreapp3.1\Do.dll
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\bin\Debug\netcoreapp3.1\Do.pdb
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\obj\Debug\netcoreapp3.1\Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\obj\Debug\netcoreapp3.1\Do.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\obj\Debug\netcoreapp3.1\Do.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\obj\Debug\netcoreapp3.1\Do.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\obj\Debug\netcoreapp3.1\Do.dll
+C:\Users\Administrator\Desktop\Temp01\Feiyu\Do\obj\Debug\netcoreapp3.1\Do.pdb

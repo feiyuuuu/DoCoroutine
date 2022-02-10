@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\TestDo.exe
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\TestDo.deps.json
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\TestDo.runtimeconfig.json
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\TestDo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\TestDo.dll
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\TestDo.pdb
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\Do.dll
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\bin\Debug\netcoreapp3.1\Do.pdb
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.dll
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.pdb
+C:\Users\Administrator\Desktop\Temp01\Feiyu\TestDo\obj\Debug\netcoreapp3.1\TestDo.genruntimeconfig.cache

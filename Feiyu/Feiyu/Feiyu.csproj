@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+    <RootNamespace>Feiyu</RootNamespace>
+    <AssemblyName>Feiyu</AssemblyName>
+    <SignAssembly>false</SignAssembly>
+    <PackageId>Feiyu</PackageId>
+    <Company>Feiyu</Company>
+    <Product>Feiyu</Product>
+    <Authors>Feiyu</Authors>
+  </PropertyGroup>
+
+</Project>

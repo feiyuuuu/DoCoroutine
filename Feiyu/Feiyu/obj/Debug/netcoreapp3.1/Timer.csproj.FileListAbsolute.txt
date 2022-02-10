@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\bin\Debug\netcoreapp3.1\Timer.exe
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\bin\Debug\netcoreapp3.1\Timer.deps.json
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.json
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\bin\Debug\netcoreapp3.1\Timer.dll
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\bin\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.dll
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Temp\Feiyu\Timer\obj\Debug\netcoreapp3.1\Timer.GeneratedMSBuildEditorConfig.editorconfig
